@@ -1,0 +1,56 @@
+body{
+  background-image: linear-gradient(70deg, darkcyan,purple, red);
+  color:#fff;
+
+}
+.front{
+  padding-left: 100px;
+  padding-top: 200px;
+
+}
+.frontlogo{
+  border-radius: 100%;
+  width: 400px;
+  height: 200px;
+  padding-top: 20px;
+}
+#logo{
+  padding-top: 200px;
+}
+#con{
+  padding-left: 100px;
+}
+.card{
+  padding: 50px;
+  width: 200px;
+  color: black;
+  text-align: center;
+}
+.card-group{
+  padding:50px;
+}
+.gchrome{
+  width:150px;
+  height:150px;
+  padding-right: 20px;
+}
+.card-deck{
+  padding-top: 500px;
+}
+.homebtn{
+  padding-left: 100px;
+}
+.brave{
+  background-color:#ff4c68;
+  color: #fff;
+}
+.tor{
+  background-color: darkmagenta;
+  color: #fff
+}
+.tor:hover{
+  color:#fff;
+}
+.btn{
+  border-radius: 5px;
+}
